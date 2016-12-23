@@ -1,0 +1,3 @@
+hdfs dfs -mkdir data
+hdfs dfs -put ./data.csv data
+hdfs dfs -put ./userinput.txt data
